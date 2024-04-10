@@ -51,7 +51,7 @@
 - <a name="todo"></a> Prompt Gradient Projection for Continual Learning (**ICLR2024**)[[paper](https://openreview.net/attachment?id=EH2O3h7sBI&name=pdf)][[code](https://github.com/JingyangQiao/prompt-gradient-projection)]
 - <a name="todo"></a> Latent Trajectory Learning for Limited Timestamps under Distribution Shift over Time (**ICLR2024**)[[paper](https://openreview.net/attachment?id=bTMMNT7IdW&name=pdf)]
 - <a name="todo"></a> Divide and not forget: Ensemble of selectively trained experts in Continual Learning (**ICLR2024**)[[paper](https://arxiv.org/abs/2401.10191)][[code](https://github.com/grypesc/SEED)]
-- 
+- <a name="todo"></a> Evolving Parameterized Prompt Memory for Continual Learning (**AAAI2024**)[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29231)][[code](https://github.com/MIV-XJTU/EvoPrompt)]
 - <a name="todo"></a> Towards Continual Learning Desiderata via HSIC-Bottleneck Orthogonalization and Equiangular Embedding (**AAAI2024**)[[paper](https://arxiv.org/abs/2401.09067)] 
 - <a name="todo"></a> Fine-Grained Knowledge Selection and Restoration for Non-Exemplar Class Incremental Learning (**AAAI2024**)[[paper](https://arxiv.org/abs/2312.12722)] 
 - <a name="todo"></a> Adapt Your Teacher: Improving Knowledge Distillation for Exemplar-free Continual Learning (**WACV2024**)[[paper](https://arxiv.org/abs/2308.09544)][[code](https://github.com/fszatkowski/cl-teacher-adaptation)]
@@ -60,6 +60,7 @@
 
 
 ### 2023
+- <a name="todo"></a> SIESTA: Efficient Online Continual Learning with Sleep (**TMLR 2023**)[[paper](https://arxiv.org/abs/2303.10725)]
 - <a name="todo"></a> Sub-network Discovery and Soft-masking for Continual Learning of Mixed Tasks (**EMNLP 2023**)[[paper](https://arxiv.org/abs/2310.09436)]
 - <a name="todo"></a > Incorporating neuro-inspired adaptability for continual learning in artificial intelligence (**Nature Machine Intelligence 2023**) [[paper](https://www.nature.com/articles/s42256-023-00747-w)]
 - <a name="todo"></a > Loss Decoupling for Task-Agnostic Continual Learning (**NeurIPS 2023**) [[paper](https://openreview.net/pdf?id=9Oi3YxIBSa)]
